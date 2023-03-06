@@ -1,4 +1,8 @@
 # instagram-rest-api
+
+![Screenshot (94)](https://user-images.githubusercontent.com/41718548/223136440-70cdaf17-d194-4591-ab8e-b4c0a9d9aeec.png)
+
+
 ## Frameworks and Language Used
 
 Spring Boot
